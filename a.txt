@@ -3,3 +3,4 @@ hello world
 吃早饭
 wake up
 make love
+cool
