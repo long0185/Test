@@ -1,3 +1,4 @@
 hello world
 起床
 吃早饭
+wake up
